@@ -1,0 +1,35 @@
+#header {
+  text-align: center;
+}
+
+#title {
+  color: red;
+}
+
+#main {
+  font-family: Helvetica;
+}
+
+#image {
+  margin: 0 auto;
+  display: block;
+  width: 400px;
+  max-width: 100%;
+  height: auto;
+}
+
+#img-caption {
+  text-align: center;
+}
+
+#tribute-info {
+  text-align: center;
+}
+
+#tribute-link:hover {
+   color: red;
+}
+
+#footer {
+  text-align: center;
+}
